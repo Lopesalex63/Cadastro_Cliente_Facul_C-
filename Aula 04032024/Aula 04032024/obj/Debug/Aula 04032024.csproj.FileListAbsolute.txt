@@ -1,0 +1,10 @@
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Aula 04032024\bin\Debug\Aula 04032024.exe.config
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Aula 04032024\bin\Debug\Aula 04032024.exe
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Aula 04032024\bin\Debug\Aula 04032024.pdb
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Aula 04032024\obj\Debug\Aula 04032024.csproj.AssemblyReference.cache
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Aula 04032024\obj\Debug\Aula_04032024.Form1.resources
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Aula 04032024\obj\Debug\Aula_04032024.Properties.Resources.resources
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Aula 04032024\obj\Debug\Aula 04032024.csproj.GenerateResource.cache
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Aula 04032024\obj\Debug\Aula 04032024.csproj.CoreCompileInputs.cache
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Aula 04032024\obj\Debug\Aula 04032024.exe
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Aula 04032024\obj\Debug\Aula 04032024.pdb

@@ -1,0 +1,10 @@
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Desafio\bin\Debug\Desafio.exe.config
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Desafio\bin\Debug\Desafio.exe
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Desafio\bin\Debug\Desafio.pdb
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Desafio\obj\Debug\Desafio.csproj.AssemblyReference.cache
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Desafio\obj\Debug\Desafio.Form1.resources
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Desafio\obj\Debug\Desafio.Properties.Resources.resources
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Desafio\obj\Debug\Desafio.csproj.GenerateResource.cache
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Desafio\obj\Debug\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Desafio\obj\Debug\Desafio.exe
+C:\Users\alex_junior\Desktop\VS Faculdade\Aula 04032024\Desafio\obj\Debug\Desafio.pdb
